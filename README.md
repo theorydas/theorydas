@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <em>
-    An Open Source enthusiast, who is obsessed helping the world.
+    An Open Source enthusiast, who is obsessed with improving himself.
   </em>
   <br>
 </p>
