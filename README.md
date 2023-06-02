@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋 </h1> -->
+<h1 align="center"> Per aspera ad astra </h1>
 <h3 align="center">Data Analyst 👨‍💻 | Aspiring Researcher 🔬 </h3>
 
 <p align="center">
