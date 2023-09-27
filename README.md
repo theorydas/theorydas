@@ -3,13 +3,7 @@
 
 <p align="center">
   <em>
-    I am a recent graduate, aspiring for a fun research PhD in <b>science</b> and <b>aritficial intelligence</b>
-      </em>
-  <br>
-</p>
-<p align="center">
-  <em>
-    An Open Source enthusiast, who is obsessed with improving himself.
+    An Open Source enthusiast who is obsessed with improving himself.
   </em>
   <br>
 </p>
