@@ -1,9 +1,9 @@
 <h1 align="center"> Per aspera ad astra </h1>
-<h3 align="center">Data Analyst 👨‍💻 | Aspiring Researcher 🔬 </h3>
+<h3 align="center">Data Analyst 👨‍💻 </h3>
 
 <p align="center">
   <em>
-    An Open Source enthusiast who is obsessed with improving himself.
+    An Open Source enthusiast.
   </em>
   <br>
 </p>
